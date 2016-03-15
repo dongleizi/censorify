@@ -1,0 +1,2 @@
+# censorify
+npm test
